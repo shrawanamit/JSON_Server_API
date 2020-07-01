@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "amit",
+      "lastName": "suman",
+      "email": "amitkumar06111@gmail.com",
+      "age": "21",
+      "companyId": "1"
+    },
+    {
+      "lastName": "suman",
+      "id": "2"
+    },
+    {
+      "lastName": "suman",
+      "id": "3"
+    },
+    {
+      "firstName": "shri",
+      "lastName": "suman",
+      "email": "visalkumar06111@gmail.com",
+      "age": "21",
+      "companyId": "4",
+      "id": "4"
+    },
+    {
+      "id": "6",
+      "firstName": "saurabh",
+      "lastName": "kumar",
+      "email": "amitkumar06111@gmail.com",
+      "age": "21",
+      "companyId": "7"
+    }
+  ]
+}
